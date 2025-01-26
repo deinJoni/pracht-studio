@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.13.7",
+    "@supabase/ssr": "^0.5.2",
+    "@supabase/supabase-js": "^2.48.1",
+    "dotenv": "^16.4.7",
     "hono": "^4.6.19",
     "shared-types": "workspace:*"
   },
